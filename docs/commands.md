@@ -15,11 +15,11 @@ Here's the list of Atlanta commands. This one contains more than **110 commands*
 | **calc**         | A calculator capable of solving complex operations and converting units! | calc [calculation]             | 1 seconds |
 | **fortnite**     | Displays a player's Fortnite stats!                                      | fortnite [psn/xbl/pc] [pseudo] | 1 seconds |
 | **fortniteshop** | Displays the fortnite items shop!                                        | fortniteshop                   | 1 seconds |
-| **github**       | Displays the information from the Atlanta github!                        | github                         | 5 seconds |
+| **github**       | Displays the information from the Atlantis github!                       | github                         | 5 seconds |
 | **hastebin**     | Upload your text on hastebin !                                           | hastebin [text]                | 5 seconds |
 | **help**         | Displays the help of commands or the help of a particular command        | help (command)                 | 5 seconds |
 | **invitations**  | Displays the number of people you have invited to the server!            | invitations (@member)          | 3 seconds |
-| **invite**       | Displays the links of Atlanta!                                           | invite (copy)                  | 5 seconds |
+| **invite**       | Displays the links of Atlantis!                                          | invite (copy)                  | 5 seconds |
 | **minecraft**    | Displays information about the Minecraft server!                         | minecraft [ip]                 | 3 seconds |
 | **partners**     | Displays Atlanta partners                                                | partners                       | 1 seconds |
 | **permissions**  | Displays the member's permissions in the channel                         | permissions (@member)          | 1 seconds |
